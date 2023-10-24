@@ -1,0 +1,11 @@
+/*
+*************
+Commons
+*************
+*/
+nav{
+    background-color: var(--ab-main-500);
+}
+#Jumbotron{
+    background-color: var(--ab-secnodary-500);
+}
