@@ -6,6 +6,15 @@ Commons
 nav{
     background-color: var(--ab-main-500);
 }
-#Jumbotron{
-    background-color: var(--ab-secnodary-500);
+#jumbotron{
+    background-color: var(--ab-secondary-500); 
+}
+
+#about{
+    background-color: var(--ab-secondary-500);
+}
+
+.custom-size {
+    width: 12.5rem;
+    height: auto;
 }
